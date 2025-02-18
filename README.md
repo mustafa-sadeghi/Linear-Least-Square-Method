@@ -12,11 +12,6 @@ Welcome to the **Least Squares Method** Jupyter Notebook, a complete guide to un
 - **Interactive Visualizations:** Explore results with plots and graphs that clarify the concept of least squares.
 - **Easy-to-Follow Code:** Python scripts and comments ensure accessibility for users of all skill levels.
 
-## Benefits of Using This Notebook
-
-- Master the fundamentals of **linear regression** and **curve fitting**.
-- Learn how to minimize error in data approximation problems.
-- Enhance your data analysis skills with a step-by-step guide to implementation in Python.
 
 ## Installation and Requirements
 
@@ -34,14 +29,6 @@ To get started, ensure you have the following installed:
    jupyter notebook least-square.ipynb
    ```
 3. Follow the instructions in the cells to execute the code and explore the examples.
-
-## Why Choose This Notebook?
-
-The least-squares method is widely used in data science, machine learning, and engineering for accurate data modeling and regression analysis. This notebook is a **one-stop resource** for anyone looking to deepen their understanding of this essential technique with hands-on Python examples.
-
-## Contribute and Feedback
-
-We welcome contributions and feedback to make this resource even better. Feel free to raise issues or suggest improvements.
 
 ## License
 
